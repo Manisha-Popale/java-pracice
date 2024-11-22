@@ -1,2 +1,2 @@
-# java-pracice
+# java-practice
 This is my first Git Repository
